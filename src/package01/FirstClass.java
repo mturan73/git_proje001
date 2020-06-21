@@ -6,6 +6,7 @@ public class FirstClass {
 		
 		System.out.println("Ilk commit fromm local repository");
 		System.out.println("ikinci commit fromm local repository");
+		System.out.println("yeni branch olusturdum ve ad feature");
 
 	}
 
